@@ -4,17 +4,13 @@ The purpose of CS 501 is to prepare the Computer Science TAs for teaching in the
 
 
 ## Instructor
+**Thomas Schibler** (he/him)
+ 
+I'm a 5th year PhD student in Computer Science. I'm also the Lead TA for the CS department this year, so please reach out to me if you have teaching-related questions or concerns.
 
-> 
-> **Thomas Schibler** (he/him)
-> 
-> 
-> I'm a 5th year PhD student in Computer Science. I'm also the Lead TA for the CS department this year, so please reach out to me if you have teaching-related questions or concerns.
->
-> 
-> **Email**: [tschibler@ucsb.edu](mailto:tschibler@ucsb.edu)
-> 
-> **Office hours**: TBD
+**Email**: [tschibler@ucsb.edu](mailto:tschibler@ucsb.edu)
+
+**Office hours**: TBD
 <!-- > - Tue, Wed, Thur, 2-3pm, Phelps 2510 -->
 <!-- > - Fri, 1-2pm, [Building 936 aka "TA trailer"](https://ucsb-cs8.github.io/w20/info/mentorPhotos/trailer-map.png) -->
 
