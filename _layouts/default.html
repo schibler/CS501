@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>{{ page.title }} | {{ site.title }}</title>
+
+    <link rel="stylesheet" href="{{ "/assets/style.css" | relative_url }}">
+</head>
+
+<body>
+
+<div class="container">
+
+    <aside class="sidebar">
+        <h2>CS 501</h2>
+        <div class="course-title">
+            Techniques of Computer Science Teaching
+        </div>
+
+        <nav>
+            <a href="{{ "/" | relative_url }}">Home</a>
+            <a href="{{ "/syllabus" | relative_url }}">Syllabus</a>
+
+            <div class="nav-section">Modules</div>
+            <a href="{{ "/modules/module1" | relative_url }}">Module 1</a>
+            <a href="{{ "/modules/module2" | relative_url }}">Module 2</a>
+            <a href="{{ "/modules/module3" | relative_url }}">Module 3</a>
+
+            <div class="nav-section">Assignments</div>
+            <a href="{{ "/assignments/assignment1" | relative_url }}">
+                Assignment 1
+            </a>
+            <a href="{{ "/assignments/assignment2" | relative_url }}">
+                Assignment 2
+            </a>
+        </nav>
+    </aside>
+
+    <main class="content">
+        {{ content }}
+    </main>
+
+</div>
+
+</body>
+</html>
