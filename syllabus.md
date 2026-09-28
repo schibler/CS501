@@ -26,7 +26,7 @@ Your time as a graduate student is precious and limited. Thus, you'll only need 
 | Who      | What you need to do                                                                             | Estimated time                                       |
 | -------- | ----------------------------------------------------------------------------------------------- | ---------------------------------------------------- |
 | Everyone | Attend classes from week 1 - 6                                                                 | 6 hours (in class)                                   |
-| Everyone | Observe a discussion/lab section led by a fellow TA                                             | 1.5 hour                                               |                                 |
+| Everyone | Observe a discussion/lab section led by a fellow TA                                             | 1.5 hours                                               |                                 |
 | Everyone | Write a teaching philosophy statement                                                           | 1 hour                                               |
 | TAs      | Maintain a teaching journal                                                                     | 10-15 minutes per week                                |
 | Non-TAs  | Give a 10-min teaching demo                                                                     | Prep time + sign up for 1 class where you'll present |
