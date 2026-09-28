@@ -21,7 +21,7 @@ I'm a 5th year PhD student in Computer Science. I'm also the Lead TA for the CS 
 
 ## Requirements
 
-Your time as a graduate student is precious and limited. Thus, you'll only need to complete the following list of requirements to pass the course. For the entire fall quarter, please expect to spend a total of 5 hours in class, and around 5-8 hours after class. Spread across the quarter, the workload comes out to be just above **1 hour per week** in combined in-class and out-of-class time, which I hope is manageable.
+Your time as a graduate student is precious and limited. Thus, you'll only need to complete the following list of requirements to pass the course. For the entire fall quarter, please expect to spend a total of 6 hours in class, and around 5-8 hours after class. Spread across the quarter, the workload comes out to be just above **1 hour per week** in combined in-class and out-of-class time, which I hope is manageable.
 
 | Who      | What you need to do                                                                             | Estimated time                                       |
 | -------- | ----------------------------------------------------------------------------------------------- | ---------------------------------------------------- |
