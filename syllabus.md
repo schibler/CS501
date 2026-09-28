@@ -35,6 +35,4 @@ Your time as a graduate student is precious and limited. Thus, you'll only need 
 ## Attendance
 Attendance is **mandatory from week 1 through week 6**, and will be taken in class. 
 
-From week 7 to week 10, you'll only need to attend exactly 1 week of class:
-- If you're a non-TA, sign up for 1 class to give your micro teaching demo.
-- If you're a TA, sign up for 1 class to attend and give feedback.
+From week 7 to week 10, **TA's** do not need to attend. **non-TA's** need to attend exactly 1 week of class. (You'll sign up for one week to give your micro teaching demo.)
