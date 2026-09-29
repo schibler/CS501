@@ -1,18 +1,5 @@
----
-layout: default
-title: Home
----
-
 # CS 501 - Techniques of Computer Science Teaching
 
 Welcome to CS 501!
 
-This site contains the syllabus, course modules, and assignments.
-
-## Course Materials
-
-Use the navigation on the left to access:
-
-- [Syllabus](syllabus)
-- Slides
-- Assignments
+This site contains the syllabus, course slides, and assignments (see navigation bar on the left).
