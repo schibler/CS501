@@ -1,8 +1,3 @@
----
-layout: default
-title: Syllabus
----
-
 # Syllabus
 
 The purpose of CS 501 is to prepare the Computer Science TAs for teaching in the classroom environment. TAs are not expected to have any prior teaching experience, so this course will help them achieve confidence in the classroom, grade equitably and efficiently, teach to various learning styles and establish their personal teaching philosophies. The course is given to both students who will be TAing concurrently in the fall quarter and those who hope to TA in the future.
