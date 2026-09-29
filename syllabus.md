@@ -25,14 +25,16 @@ Your time as a graduate student is precious and limited. Thus, you'll only need 
 
 | Who      | What you need to do                                                                             | Estimated time                                       |
 | -------- | ----------------------------------------------------------------------------------------------- | ---------------------------------------------------- |
-| Everyone | Attend classes from week 1 - 6                                                                 | 6 hours (in class)                                   |
-| Everyone | Observe a discussion/lab section led by a fellow TA                                             | 1.5 hours                                               |                                 |
-| Everyone | Write a teaching philosophy statement                                                           | 1 hour                                               |
-| TAs      | Maintain a teaching journal                                                                     | 10-15 minutes per week                                |
+| Everyone | Attend classes from week 1 - 5                                                                  | 5 hours (in class)                                   |
+| Everyone | Observe a discussion/lab section led by a fellow TA                                             | 1.5 hours                                            |
+| TAs      | Write a teaching philosophy statement                                                           | 2 hours (partially in class)                         |
+| TAs      | Maintain a teaching journal                                                                     | 10-15 minutes per week                               |
 | Non-TAs  | Give a 10-min teaching demo                                                                     | Prep time + sign up for 1 class where you'll present |
 
 
 ## Attendance
-Attendance is **mandatory from week 1 through week 6**, and will be taken in class. 
+Attendance is **mandatory from week 1 through week 5**, and will be taken in class. 
 
-From week 7 to week 10, **TA's** do not need to attend. **non-TA's** need to attend exactly 1 week of class. (You'll sign up for one week to give your micro teaching demo.)
+From week 6 to week 10, you'll only need to attend exactly one class (but you are welcome to attend more!):
+- **TAs**: You'll need to attend the class on writing a teaching philosophy statement (week 6)
+- **Non-TAs**: You'll need to sign up to give your micro teaching demo in week 7 - 10
