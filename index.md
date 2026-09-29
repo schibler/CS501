@@ -14,5 +14,5 @@ This site contains the syllabus, course modules, and assignments.
 Use the navigation on the left to access:
 
 - [Syllabus](syllabus)
-- Modules
+- Slides
 - Assignments
