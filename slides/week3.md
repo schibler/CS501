@@ -1,6 +1,6 @@
 # Week 3
 
-(**Important note:** If you're seeing this before class, I've just published it and please don't look yet! If you're seeing this after class, I just haven't updated the website to add the slides yet...)
+[Link to slides](https://docs.google.com/presentation/d/1x5YZsld7_cBDUgE6vpxve2txUESa8z5E3iHqwCGl050/edit?usp=sharing)
 
 ## In-Class Grading Activity
 
