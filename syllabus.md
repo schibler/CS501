@@ -10,7 +10,7 @@ I'm a 5th year PhD student in Computer Science. I'm also the Lead TA for the CS 
 
 **Email**: [tschibler@ucsb.edu](mailto:tschibler@ucsb.edu)
 
-**Office hours**: TBD
+**Office hours**: Wednesdays 10-11am, Building 936 (TA Trailer)
 <!-- > - Tue, Wed, Thur, 2-3pm, Phelps 2510 -->
 <!-- > - Fri, 1-2pm, [Building 936 aka "TA trailer"](https://ucsb-cs8.github.io/w20/info/mentorPhotos/trailer-map.png) -->
 
