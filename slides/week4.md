@@ -20,8 +20,11 @@ Over the past few weeks, you’ve noticed that one of your students has stopped 
 During the university’s campus visit weekend, the CS department hosts a casual coffee hour for visiting families. You strike up a great conversation with a person who mentions she’s a UCSB alumna now working as a network engineer at Arista Networks. Since you’re currently a TA for CS 176A (Introduction to Computer Communication Networks), you bond over shared interests in networking technologies. As the conversation continues, you realize her son is a student in your section. He’s highly engaged in class and doing well. 
 
 Which of the following information would it be ok to share with the parent?
+
 □ That her son is taking CS 176A and you are his TA 
+
 □ That her son is doing well in the class in general
+
 □ That her son got 100% on the last quiz
 
 ### Scenario 4:
