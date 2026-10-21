@@ -1,5 +1,7 @@
 # Week 4
 
+[Link to slides](https://docs.google.com/presentation/d/1YJ8exN8uLUKzpkbOkr4jfp6vP5nWHvdPaE4y_ERN-io/edit?usp=sharing)
+
 ## In-Class Group Scenarios
 
 In your group, consider each of the following 4 scenarios (~4 minutes each).
