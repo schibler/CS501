@@ -12,5 +12,5 @@ Send Thomas a draft of your teaching philosophy statement via email by the deadl
 * How do you teach?
 * Why do you teach that way?
 
-You can use [this worksheet] to help you get started (the same one we followed in class week 5). See the week 5 slides for more details.
+You can use [this worksheet](https://docs.google.com/document/d/1_6sMo_iXTQNPa_H6YnXLaRzXjLFoCW4DJTaDRzOipmc/edit?tab=t.0#heading=h.7ff9hieoop6l) to help you get started (the same one we followed in class week 5). See the week 5 slides for more details.
 
